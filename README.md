@@ -9,7 +9,7 @@ The analysis builds a structured revenue diagnostic framework that traces revenu
 The final output is an interactive **Power BI diagnostic dashboard** designed to help stakeholders monitor revenue growth, evaluate category performance, and identify cost drivers affecting margins.
 
 ---
-
+![Dashboard Overview](https://github.com/AditiJ281/Customer-Churn-and-Retention-Analysis-using-SQL-and-Power-BI/blob/main/Dashboard1.png)
 ## Business Objectives
 
 * Evaluate revenue growth and order trends
