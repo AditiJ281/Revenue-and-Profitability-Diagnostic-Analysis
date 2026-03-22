@@ -9,7 +9,9 @@ The analysis builds a structured revenue diagnostic framework that traces revenu
 The final output is an interactive **Power BI diagnostic dashboard** designed to help stakeholders monitor revenue growth, evaluate category performance, and identify cost drivers affecting margins.
 
 
-![Dashboard](https://github.com/AditiJ281/Revenue-and-Profitability-Diagnostic-Analysis/blob/main/dashboard/Images/Rev_Dashboard1.png?raw=true)]
+![Dashboard](https://github.com/AditiJ281/Revenue-and-Profitability-Diagnostic-Analysis/blob/main/dashboard/Images/Rev_Dashboard1.png?raw=true)
+---
+![Dashboard](https://github.com/AditiJ281/Revenue-and-Profitability-Diagnostic-Analysis/blob/main/dashboard/Images/Rev_Dashboard2.png?raw=true)
 
 ---
 ## Business Objectives
